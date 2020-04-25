@@ -1,0 +1,151 @@
+
+
+
+.logo{
+    background: url(../img/18445.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.somoysuci{
+    background: url(../img/18445.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+.on{
+    background: url(../img/18445.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+.tab{
+    background: url(../img/18445.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+.theadbg{
+    background: url(../img/18445.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+.tablebg{
+    background: url(../img/18445.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+.lg{
+    margin-top: 3.2%;
+    margin-bottom: 2%;
+}
+.lg img{
+    width:200px;
+    height: 100px;
+}
+
+/* ============/ somoy suci section / ============== */
+
+.sm {
+    background: #EB1C24;
+}
+.sm h2{
+    font-weight: bolder;
+    font-size: 35px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.zel h1{
+    color: #FA0000;
+    text-align: center;
+    padding-top: 1%;
+    font-weight: bold;
+    font-size: 42px;
+}
+
+/* ==============/ option selection /============== */
+
+.opt{
+    padding-top: 1%;
+}
+.opt select {
+    width: 100%;
+    height: 60px;
+    font-size: 35px;
+    font-weight: bold;
+    color: #555555;
+    padding-left: 2%;
+    border: 0.5px solid #DBDBDB;
+    border-radius:7px;
+    box-shadow: 8px 8px 10px grey;
+}
+
+
+/* ============/ button here /================ */
+
+.bt{
+    padding-top: 7%;
+    padding-bottom: 5%;
+}
+.bt button {
+    width:100%;
+    border:none;
+    font-size: 30px;
+    color: #fff;
+    background: #C9302C;
+    box-shadow: 8px 8px 10px grey;
+}
+.bt button:hover{
+    background: #EB1C24;
+    color :#fff;
+}
+
+/* ============= table here ============== */
+
+.thead {
+    height: 80px;
+    background: #DBDBDB;
+    width: 100%;
+}
+
+
+
+.si h1{
+    padding-top: 3%;
+    font-weight: bold;
+    color: #FF0000;
+}
+
+.taa table{
+    border: 0.5px solid #DBDBDB;
+    height: 90px;
+    width: 100%;
+    box-shadow: 8px 8px 10px grey;
+}
+.ta tr{
+    background: #F9F9F9;
+}
+.taa td{
+    border: 0.5px solid #DBDBDB;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+.jel{
+    margin-top: 3%;
+    margin-bottom: 15%;
+    height: 70px;
+    background: #449D44;
+    border-radius: 5px;
+}
+.jel h2 {
+    
+    padding: 2%;
+    text-align: center;
+    color:#fff;
+}
+
+.space{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
